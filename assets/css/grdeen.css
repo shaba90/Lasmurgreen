@@ -3433,6 +3433,8 @@ h6 {
   background-position: bottom center;
   background-repeat: no-repeat;
   padding: 52px 0 62px;
+  
+  margin-bottom: 200px;
 }
 .contact-one__info {
   margin: 0;
